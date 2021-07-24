@@ -1,0 +1,5 @@
+#print("hello world!")
+a = input("请输入: ")
+b = input("字段2： ")
+#print("input获取的内容； ",a+b)
+print("字段和： ",len(a)+len(b))
